@@ -1,0 +1,89 @@
+@font-face {
+    font-family: "latoblack";
+    src: url(../../fuentes/Lato/Lato-Black.ttf);
+}
+
+@font-face {
+    font-family: "latoblackitalic";
+    src: url(../../fuentes/Lato/Lato-BlackItalic.ttf);
+}
+
+@font-face {
+    font-family: "latobold";
+    src: url(../../fuentes/Lato/Lato-Bold.ttf);
+}
+
+@font-face {
+    font-family: "latobolditalic";
+    src: url(../../fuentes/Lato/Lato-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: "latoitalic";
+    src: url(../../fuentes/Lato/Lato-Italic.ttf);
+}
+
+@font-face {
+    font-family: "latolight";
+    src: url(../../fuentes/Lato/Lato-Light.ttf);
+}
+
+@font-face {
+    font-family: "latolightitalic";
+    src: url(../../fuentes/Lato/Lato-LightItalic.ttf);
+}
+
+@font-face {
+    font-family: "latoregular";
+    src: url(../../fuentes/Lato/Lato-Regular.ttf);
+}
+
+@font-face {
+    font-family: "latothin";
+    src: url(../../fuentes/Lato/Lato-Thin.ttf);
+}
+
+@font-face {
+    font-family: "latothinitalic";
+    src: url(../../fuentes/Lato/Lato-ThinItalic.ttf);
+}
+
+@font-face {
+    font-family: "unboundedblack";
+    src: url(../../fuentes/Unbounded/Unbounded-Black.ttf);
+}
+
+@font-face {
+    font-family: "unboundedbold";
+    src: url(../../fuentes/Unbounded/Unbounded-Bold.ttf);
+}
+
+@font-face {
+    font-family: "unboundedextrabold";
+    src: url(../../fuentes/Unbounded/Unbounded-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: "unboundedextralight";
+    src: url(../../fuentes/Unbounded/Unbounded-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: "unboundedlight";
+    src: url(../../fuentes/Unbounded/Unbounded-Light.ttf);
+}
+
+@font-face {
+    font-family: "unboundedmedium";
+    src: url(../../fuentes/Unbounded/Unbounded-Medium.ttf);
+}
+
+@font-face {
+    font-family: "unboundedregular";
+    src: url(.././fuentes/Unbounded/Unbounded-Regular.ttf);
+}
+
+@font-face {
+    font-family: "unboundedsemibold";
+    src: url(../../fuentes/Unbounded/Unbounded-SemiBold.ttf);
+}
